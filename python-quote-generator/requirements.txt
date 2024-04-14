@@ -3,3 +3,4 @@ pyfiglet==0.8.post1
 requests==2.25.1
 beautifulsoup4==4.9.3
 rich==10.2.2
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
