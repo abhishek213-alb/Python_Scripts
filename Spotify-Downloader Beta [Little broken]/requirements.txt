@@ -2,3 +2,4 @@ bs4
 requests   
 youtube_search
 youtube_dl
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
